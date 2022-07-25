@@ -104,6 +104,8 @@ To run tests, select Extension Tests as the active debug configuration, or run `
 [ESLint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [TypeScript+Webpack Problem Matcher]: https://marketplace.visualstudio.com/items?itemName=amodio.tsl-problem-matcher
 
+A more detailed developer guide can be found in the docs/developer.md.
+
 ## License
 
 The extension is released under the [Apache 2.0 license], the same license as [CodeChecker].
